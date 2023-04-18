@@ -1,0 +1,1 @@
+export const CHANGE_DIALOG = 'CHANGE_DIALOG'

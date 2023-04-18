@@ -1,0 +1,8 @@
+.dialog {
+    position: fixed;
+    bottom: 1rem;
+    right: 1rem;
+    padding: 1rem;
+    border-radius: 5px;
+    background-color: lightblue;
+}
